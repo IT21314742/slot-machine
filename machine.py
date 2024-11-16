@@ -12,3 +12,4 @@ def get_payout():
 def main():
     pass
 
+if __name__
