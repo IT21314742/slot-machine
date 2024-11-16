@@ -9,3 +9,4 @@ def print_row():
 def get_payout():
     pass
 
+def main():
