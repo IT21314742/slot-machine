@@ -6,4 +6,4 @@ def spin_row():
 def print_row():
     pass
 
-def
+def get_payout
