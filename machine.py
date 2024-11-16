@@ -12,4 +12,4 @@ def get_payout():
 def main():
     pass
 
-if __name__
+if __name__ == '__main__':
