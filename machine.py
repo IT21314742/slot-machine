@@ -13,7 +13,7 @@ def main():
     balance = 100
 
     print (" ************************* ")
-    print ("Welcome to Python Slots")
+    print ("Welcome to Python Slots ")
 
 if __name__ == '__main__':
     main()
