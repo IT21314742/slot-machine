@@ -12,7 +12,7 @@ def get_payout():
 def main():
     balance = 100
 
-    print (" *** ")
+    print (" **** ")
     print ("Welcome to Python Slots")
 
 if __name__ == '__main__':
