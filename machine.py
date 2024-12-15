@@ -14,6 +14,8 @@ def main():
 
     print (" ************************* ")
     print (" Welcome to Python Slots ")
+    print (" ************************* ")
+    
 
 if __name__ == '__main__':
     main()
