@@ -11,6 +11,7 @@ def get_payout():
 
 def main():
     balance = 100
+    
 
 if __name__ == '__main__':
     main()
