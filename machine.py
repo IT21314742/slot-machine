@@ -12,7 +12,7 @@ def get_payout():
 def main():
     balance = 100
 
-    print ("Welcome to Python ")
+    print ("Welcome to Python Sl")
 
 if __name__ == '__main__':
     main()
