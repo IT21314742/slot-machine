@@ -14,7 +14,7 @@ def main():
 
     print (" ************************* ")
     print (" Welcome to Python Slots ")
-    print (" Welcome to Python Slots ")
+    print ("  ")
     print (" ************************* ")
     
 
