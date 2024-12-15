@@ -10,7 +10,7 @@ def get_payout():
     pass
 
 def main():
-    
+    balance
 
 if __name__ == '__main__':
     main()
