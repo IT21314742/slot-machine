@@ -16,6 +16,11 @@ def main():
     print (" Welcome to Python Slots ")
     print (" Symbols: 🍒 🍉🍋🔔🌟 ")
     print (" ********************** ")
+
+    while balance > 0:
+        print (f"Current balance: ${balance}")
+
+        
     
 
 if __name__ == '__main__':
