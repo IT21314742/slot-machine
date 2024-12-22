@@ -25,6 +25,18 @@ def main():
         if not bet.isdigit():
             print("Please enter a valid number")
             continue
+
+        bet = int (bet)
+
+        if bet > balance:
+            print("insufficient funds")
+            continue
+
+        if bet <= 0:
+            print("Bet must be greater than 0")
+            continue
+
+        balance -= bet
     
 
 if __name__ == '__main__':
