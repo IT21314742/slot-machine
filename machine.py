@@ -20,7 +20,7 @@ def main():
     while balance > 0:
         print (f"Current balance: ${balance}")
 
-        
+        bet = input("place your bet amount: ")
     
 
 if __name__ == '__main__':
