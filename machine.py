@@ -1,7 +1,7 @@
 #Python Slot Machine
 
 def spin_row():
-    pass
+    
 
 def print_row():
     pass
@@ -41,7 +41,7 @@ def main():
         row = spin_row()
 
 
-        
+
     
 
 if __name__ == '__main__':
