@@ -4,7 +4,7 @@ def spin_row():
     symbols = ['🍒', '🍉', '🍋', '🔔', '🌟' ]
 
     results = []
-    for symbol
+    for symbol 
 
 def print_row():
     pass
