@@ -5,7 +5,7 @@ def spin_row():
 
     results = []
     for symbol in range (3):
-        results
+        results.
 
 def print_row():
     pass
