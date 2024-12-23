@@ -1,7 +1,7 @@
 #Python Slot Machine
 
 def spin_row():
-    
+    symbols
 
 def print_row():
     pass
