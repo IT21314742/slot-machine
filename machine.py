@@ -64,6 +64,8 @@ def main():
 
         payout = get_payout( row, bet)
 
+        
+
 
 
     
