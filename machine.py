@@ -11,8 +11,8 @@ def spin_row():
         results.append(random.choice(symbols))
     return results 
 
-def print_row():
-    pass
+def print_row(row):
+    print(" ".join())
 
 def get_payout():
     pass
@@ -48,6 +48,7 @@ def main():
 
         row = spin_row()
         print ("spinning...\n")
+        print_row(row)
 
 
 
