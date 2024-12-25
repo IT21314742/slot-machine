@@ -76,6 +76,8 @@ def main():
         if play_again != 'Y':
             break
 
+    print
+
     
 
 if __name__ == '__main__':
