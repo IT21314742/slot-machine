@@ -69,7 +69,7 @@ def main():
         else:
             print("Sorry you lost this round")
 
-        balance += 
+        balance += payout
 
 
 
