@@ -25,6 +25,7 @@ def get_payout(row, bet):
         elif row[0] == '🔔':
             return bet * 10
         elif row[0] == '🌟':
+            return bet * 20
 
 def main():
     balance = 100
