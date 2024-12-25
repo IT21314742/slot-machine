@@ -65,6 +65,7 @@ def main():
         payout = get_payout( row, bet)
 
         if payout > 0:
+            print()
 
 
 
