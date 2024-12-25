@@ -77,7 +77,7 @@ def main():
             break
 
 
-
+    print("*********************************************")
     print(f"Game over! Your finan balance is ${balance}")
 
 
