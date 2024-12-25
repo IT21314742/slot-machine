@@ -74,6 +74,7 @@ def main():
         play_again = input("Do you want to play again (Y/N): ")
 
         if play_again != 'Y':
+            break
 
     
 
