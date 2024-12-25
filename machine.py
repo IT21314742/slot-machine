@@ -12,10 +12,11 @@ def spin_row():
     return results 
 
 def print_row(row):
-    print(" ".join())
+    print(" | ".join(row))
 
-def get_payout():
-    pass
+def get_payout(row, bet):
+    if row[0] == row[1] == row[2]:
+        if row[0] == '🍒':
 
 def main():
     balance = 100
@@ -49,6 +50,8 @@ def main():
         row = spin_row()
         print ("spinning...\n")
         print_row(row)
+
+        payout = get_payout( row, bet)
 
 
 
