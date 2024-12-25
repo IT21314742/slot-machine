@@ -47,7 +47,7 @@ def main():
         balance -= bet
 
         row = spin_row()
-        
+        print
 
 
 
