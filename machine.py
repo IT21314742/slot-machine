@@ -76,7 +76,7 @@ def main():
         if play_again != 'Y':
             break
 
-    print
+    print(f"Game over! Your finan balance is ${balance}")
 
     
 
